@@ -2,10 +2,10 @@
     <div id="social-container">
         <ul>
             <li>
-                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                <a href="https://github.com/geanio-rodrigues/moviestar"><i class="fab fa-github"></i></a>
             </li>
             <li>
-                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/geaniorodrigues/"><i class="fab fa-instagram"></i></a>
             </li>
             <li>
                 <a href="#"><i class="fab fa-youtube"></i></a>
